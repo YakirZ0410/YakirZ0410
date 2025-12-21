@@ -1,9 +1,11 @@
-Hi there, I'm Yakir! 👋
-I'm a passionate Computer Science student with big aspirations and a love for solving problems through code. My journey in tech is driven by curiosity, creativity, and the excitement of bringing new ideas to life. 🚀
+Hi there, I'm Yakir!  
+I'm a **B.Sc. graduate in Computer Science**, specializing in **Data Science**, with a strong focus on **Data Analysis, Business Intelligence (BI), AI**, and **Full-Stack Development**.
 
-🎓 Currently pursuing my Bachelor’s degree in Computer Science, specializing in Data Science.
-💻 I enjoy coding, experimenting with new technologies, and building projects that make an impact.
-🌟 I’m always looking to learn, grow, and push the boundaries of what’s possible.
-I'm highly motivated to succeed and contribute to the world of technology. Whether it's developing web apps, designing algorithms, or diving deep into data, I'm always ready for the next challenge!
+I enjoy building **end-to-end data-driven solutions** — from collecting and analyzing data, creating **BI dashboards and KPIs**, and applying **machine learning models**, to developing **backend and full-stack applications** that turn insights into real products.
 
-Feel free to explore my repositories and connect with me on LinkedIn: https://www.linkedin.com/in/yakir-zindani/ .
+My background combines solid academic foundations with hands-on projects involving **Python, SQL, data pipelines, analytics, and scalable software development**.
+
+I'm highly motivated to grow, learn, and contribute to impactful technology, and I'm always ready for the next challenge.
+
+Feel free to explore my repositories and connect with me on LinkedIn:  
+🔗 https://www.linkedin.com/in/yakir-zindani/
