@@ -1,11 +1,14 @@
-Hi there, I'm Yakir!  
-I'm a **B.Sc. graduate in Computer Science**, specializing in **Data Science**, with a strong focus on **Data Analysis, Business Intelligence (BI), AI**, and **Full-Stack Development**.
+Hi, I'm Yakir Zindani 👋
+Software Engineer | C++ · Python · Linux | Algorithms · UAV Systems
 
-I enjoy building **end-to-end data-driven solutions** - from collecting and analyzing data, creating **BI dashboards and KPIs**, and applying **machine learning models**, to developing **backend and full-stack applications** that turn insights into real products.
+I'm a Computer Science graduate (GPA 92/100, Dean's List) interested in building reliable software for robotics, networking, and computer vision. My background combines software development, algorithm research, and hands-on UAV experience.
+🛠️ Tech stack
+C++ · Python · C · Linux · TCP/UDP · Multithreading · OpenCV · PyTorch · Git
+🚀 Selected projects
+- Drone Simulator & GCS — Python-based drone simulator and ground-control UI with UDP video, synchronized telemetry, keyboard controls, and a command watchdog.
+- Multithreaded C++ Network Server — TCP client-server application with POSIX threads, mutex-protected caching, and BFS shortest-path search.
+- Event-Based UAV Detection (Elbit Systems capstone) — Drone detection using event-camera data and deep learning.
+👨‍💻 Background
+Research Assistant (MAX-SAT algorithms) · CS Teaching Assistant · Full-Stack development experience · Licensed UAV pilot (up to 25 kg)
 
-My background combines solid academic foundations with hands-on projects involving **Python, SQL, data pipelines, analytics, and scalable software development**.
-
-I'm highly motivated to grow, learn, and contribute to impactful technology, and I'm always ready for the next challenge.
-
-Feel free to explore my repositories and connect with me on LinkedIn:  
-🔗 https://www.linkedin.com/in/yakir-zindani/
+LinkedIn · GitHub
